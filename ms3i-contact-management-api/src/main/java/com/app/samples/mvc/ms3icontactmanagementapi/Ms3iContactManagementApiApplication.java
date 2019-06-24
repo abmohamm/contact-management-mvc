@@ -22,6 +22,5 @@ public class Ms3iContactManagementApiApplication extends SpringBootServletInitia
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(Ms3iContactManagementApiApplication.class, args);
 	}
-
 }
 
